@@ -1,0 +1,7 @@
+vsphere_server = "name"
+vsphere_user = "Administrator@vsphere.local"
+vsphere_password = "mypassword"
+datacenter = "voso"
+cluster = "SuperCluster"
+datastore = "Alte_Baracuda_500G"
+network_name = "VM Network"

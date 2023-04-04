@@ -1,0 +1,8 @@
+vsphere_server     = "Server"
+vsphere_user       = "Administrator@vsphere.local"
+vsphere_password   = "mypassword"
+datacenter         = "voso"
+datastore          = "datastore1"
+cluster            = "SuperCluster"
+network_name       = "VM Network"
+windows_name       = "Windows Server Terra"

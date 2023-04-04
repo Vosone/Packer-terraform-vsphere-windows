@@ -1,0 +1,8 @@
+vsphere_server     = ""
+vsphere_user       = "Administrator@vsphere.local"
+vsphere_password   = ""
+datacenter         = "PacketDatacenter"
+datastore          = "datastore1"
+cluster            = ""
+network_name       = "VM Network"
+ubuntu_name        = "tf-edu-ubuntu"
