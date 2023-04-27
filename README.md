@@ -1,6 +1,6 @@
 # Learn Terraform vSphere
 
-Replace the vsphere vars with yours. Also the passwords in the autounattend.xml file.
+Replace the vsphere vars with yours. Also the passwords in the autounattend.xml and vsphere...hcl file.
 
 Create the image:
 ```
